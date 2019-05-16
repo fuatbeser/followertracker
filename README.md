@@ -1,5 +1,5 @@
 # FollowerTracker 
-> Social media follower count tracker with Python.
+> Social media (Twitter, Instagram and Meetup) follower count tracker with Python.
 
 <p align="center">
     <a href="https://github.com/timgrossmann/InstaPy/blob/master/LICENSE">
